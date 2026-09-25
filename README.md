@@ -7,5 +7,7 @@ Bienvenido al repositorio de la asignatura **Desarrollo de Aplicaciones Web** (U
 👥 Integrantes del Grupo
 
 Estudiante 1: LUIS CONGO ARROYO- lcongo1398@utm.edu.ec 
+
 Estudiante 2: RICARDO ALVAREZ CASTRO- ralvarez1674@utm.edu.ec 
+
 Estudiante 3: JUAN MINAYA SALVADOR -
